@@ -9,8 +9,11 @@ Seaborn and Matplotlib are two of Python's most powerful visualization libraries
 ### Installition
 
 <code>pip install numpy</code>
+
 <code>pip install matplotlib</code>
+
 <code>pip install pandas</code>
+
 <code>pip install seaborn</code>
 
 ### More Details
